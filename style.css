@@ -18,3 +18,8 @@ div.link a {
     color: white;
     padding: 0 20px;
 }
+
+div.box {
+    padding: 0 20px;
+    text-align: justify;
+}
