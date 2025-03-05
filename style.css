@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #323232;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #dae4ed;
+}
+
+div.nav {
+    background-color: #616161;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+div.link a {
+    text-decoration: none;
+    color: white;
+    padding: 0 20px;
+}
