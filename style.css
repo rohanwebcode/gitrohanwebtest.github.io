@@ -20,6 +20,11 @@ div.link a {
 }
 
 div.box {
-    padding: 0 20px;
+    margin-top: 10px;
+    padding: 20px;
     text-align: justify;
+}
+
+div.box h1 {
+    line-height: 0px;
 }
